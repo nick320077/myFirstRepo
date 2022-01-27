@@ -1,7 +1,7 @@
-             const myFirstvar = 1;
+const div = document.getElementById('github');
 
-             const myFunc = function (){
-                 console.log(myFirstvar);
-             };
+const logged = () => {
+    console.log(div.textContent);
+};
 
-             myFunc();
+logged();
