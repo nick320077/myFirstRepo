@@ -6,3 +6,5 @@ const logged = () => {
 };
 
 logged();
+
+// изменение
