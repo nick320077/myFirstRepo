@@ -1,4 +1,4 @@
-const a = 1;
+const a = "переменная из lesson03";
 const b = "наша ветка lesson001";
 
 const logged = () => {
