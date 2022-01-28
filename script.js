@@ -6,5 +6,6 @@ const logged = () => {
 };
 
 logged();
+console.log("master");
 
 // изменение
