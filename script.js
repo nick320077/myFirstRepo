@@ -1,2 +1,2 @@
-const a =1;
+const a = 123;
 let b = "second variable";
